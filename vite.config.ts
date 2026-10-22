@@ -9,6 +9,6 @@ export default defineConfig({
     port: 3000,
   },
   optimizeDeps: {
-    include: ['pdfjs-dist', 'exceljs', 'xlsx'],
+    include: ['pdfjs-dist', 'xlsx'],
   },
 });
