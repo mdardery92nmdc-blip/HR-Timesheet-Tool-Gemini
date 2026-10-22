@@ -1,0 +1,5 @@
+{
+  "name": "HR Timesheet Extractor Pro",
+  "description": "Extract timesheets from PDFs, calculate contractual comp-off days and leaves, and generate formatted Excel and CSV reports.",
+  "version": "2.1.0"
+}
